@@ -1,0 +1,38 @@
+[
+  {
+    "ProjectID": "P001",
+    "ProjectName": "E-Commerce Platform",
+    "Department": "IT",
+    "ProjectManager": "Ali Khan",
+    "Budget": 250000,
+    "StartDate": "2023-01-15",
+    "EndDate": "2023-09-30",
+    "Status": "Completed",
+    "ClientName": "TechMart Pvt Ltd",
+    "PriorityLevel": "High"
+  },
+  {
+    "ProjectID": "P002",
+    "ProjectName": "HR Automation System",
+    "Department": "HR",
+    "ProjectManager": "Sara Ahmed",
+    "Budget": 120000,
+    "StartDate": "2023-03-01",
+    "EndDate": "2023-12-20",
+    "Status": "In Progress",
+    "ClientName": "Internal",
+    "PriorityLevel": "Medium"
+  },
+  {
+    "ProjectID": "P003",
+    "ProjectName": "Financial Dashboard",
+    "Department": "Finance",
+    "ProjectManager": "Usman Sheikh",
+    "Budget": 90000,
+    "StartDate": "2023-05-10",
+    "EndDate": "2023-10-15",
+    "Status": "Completed",
+    "ClientName": "FinCore Ltd",
+    "PriorityLevel": "High"
+  }
+]

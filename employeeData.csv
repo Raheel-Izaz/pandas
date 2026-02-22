@@ -1,0 +1,31 @@
+EmployeeID,FirstName,LastName,Gender,Department,JobTitle,Salary,HireDate,ExperienceYears,City,EmploymentType,PerformanceRating,IsActive
+E001,Ali,Khan,Male,IT,Software Engineer,85000,12-03-18,7,Karachi,Full-Time,4,TRUE
+E002,Sara,Ahmed,Female,HR,HR Manager,78000,19-07-16,9,Lahore,Full-Time,5,TRUE
+E003,Usman,Sheikh,Male,Finance,Accountant,65000,10-01-19,6,Islamabad,Full-Time,3,TRUE
+E004,Ayesha,Malik,Female,IT,Data Analyst,72000,25-05-20,4,Karachi,Full-Time,4,TRUE
+E005,Ahmed,Raza,Male,Marketing,Marketing Executive,60000,15-02-21,3,Lahore,Contract,3,TRUE
+E006,Hina,Butt,Female,IT,DevOps Engineer,90000,30-11-17,8,Karachi,Full-Time,5,TRUE
+E007,Bilal,Hussain,Male,Sales,Sales Manager,88000,14-09-15,10,Islamabad,Full-Time,4,TRUE
+E008,Mariam,Ali,Female,Finance,Financial Analyst,70000,18-06-19,5,Lahore,Full-Time,4,TRUE
+E009,Omar,Qureshi,Male,IT,System Administrator,75000,22-04-18,7,Karachi,Full-Time,4,TRUE
+E010,Zara,Siddiqui,Female,HR,Recruiter,58000,12-01-22,2,Lahore,Contract,3,TRUE
+E011,Imran,Tariq,Male,IT,Backend Developer,82000,19-03-19,6,Karachi,Full-Time,4,TRUE
+E012,Sadia,Farooq,Female,Marketing,Content Strategist,62000,05-10-20,4,Islamabad,Full-Time,3,TRUE
+E013,Fahad,Mehmood,Male,Finance,Auditor,67000,11-06-17,8,Lahore,Full-Time,4,TRUE
+E014,Nimra,Aslam,Female,IT,Frontend Developer,78000,14-08-21,3,Karachi,Full-Time,4,TRUE
+E015,Kamran,Shah,Male,Sales,Sales Executive,55000,09-04-22,2,Lahore,Contract,3,TRUE
+E016,Areeba,Noor,Female,IT,QA Engineer,69000,02-12-19,5,Karachi,Full-Time,4,TRUE
+E017,Saad,Latif,Male,Marketing,SEO Specialist,61000,20-07-20,4,Islamabad,Full-Time,3,TRUE
+E018,Mahnoor,Akram,Female,HR,HR Executive,56000,17-05-21,3,Lahore,Full-Time,3,TRUE
+E019,Talha,Rehman,Male,IT,Data Scientist,95000,28-03-16,9,Karachi,Full-Time,5,TRUE
+E020,Anum,Saleem,Female,Finance,Budget Analyst,72000,15-11-18,7,Islamabad,Full-Time,4,TRUE
+E021,Hamza,Arif,Male,IT,Mobile Developer,83000,14-02-19,6,Lahore,Full-Time,4,TRUE
+E022,Laiba,Iqbal,Female,Sales,Sales Coordinator,52000,01-06-22,2,Karachi,Full-Time,3,TRUE
+E023,Zain,Abbas,Male,Finance,Tax Officer,64000,22-08-18,7,Lahore,Full-Time,4,TRUE
+E024,Sana,Waheed,Female,IT,UI Designer,71000,18-01-20,5,Islamabad,Full-Time,4,TRUE
+E025,Arslan,Nawaz,Male,Marketing,Brand Manager,88000,10-03-17,8,Karachi,Full-Time,5,TRUE
+E026,Mehak,Ejaz,Female,HR,Training Officer,59000,05-09-21,3,Lahore,Full-Time,3,TRUE
+E027,Farhan,Akhtar,Male,IT,Cloud Engineer,91000,12-04-16,9,Karachi,Full-Time,5,TRUE
+E028,Kinza,Rashid,Female,Finance,Accounts Officer,60000,22-11-20,4,Islamabad,Full-Time,3,TRUE
+E029,Shahzaib,Ali,Male,Sales,Regional Manager,92000,15-05-15,10,Lahore,Full-Time,5,TRUE
+E030,Aiman,Latif,Female,Marketing,Digital Marketer,65000,30-07-19,6,Karachi,Full-Time,4,TRUE
